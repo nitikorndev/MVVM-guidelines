@@ -49,7 +49,6 @@ protocol <span class="token builtin">LoginViewModelType</span> <span class="toke
 	<span class="token comment">// MARK: - Ouputs</span>
 	<span class="token keyword">var</span> validInput<span class="token punctuation">:</span> <span class="token builtin">Driver</span><span class="token operator">&lt;</span><span class="token builtin">Bool</span><span class="token operator">&gt;</span>
 	<span class="token keyword">var</span> isLoading<span class="token punctuation">:</span> <span class="token builtin">Driver</span><span class="token operator">&lt;</span><span class="token builtin">Bool</span><span class="token operator">&gt;</span>
-
 	<span class="token keyword">init</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
 
 	<span class="token punctuation">}</span>
